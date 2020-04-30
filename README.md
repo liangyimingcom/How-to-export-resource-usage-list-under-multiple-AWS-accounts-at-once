@@ -1,7 +1,6 @@
 #AWS中国区域传输费用图解
 
-
-
+https://tva1.sinaimg.cn/large/007S8ZIlly1gebp51k13oj30o90hwwg3.jpg
 
 # awstips
 awstips
