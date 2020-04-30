@@ -1,3 +1,5 @@
+orked from nwcdlabs/aws-region-info
+
 # AWS中国区域信息
 AWS区域信息记录
  <br>
